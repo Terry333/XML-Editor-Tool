@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<list id="States" itemType="State">
+[
+</list>
+[
+  <State>
+    <Name>
+      string1
+    </Name>
+    <Population>
+      int1
+    </Population>
+    <Capital>
+      string2
+    </Capital>
+    <Governor>
+      <Politician>
+        <Type>
+          int2
+        </Type>
+        <Name>
+          string3
+        </Name>
+      </Politician>
+    </Governor> 
+  </State>
